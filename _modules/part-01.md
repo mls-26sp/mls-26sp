@@ -8,7 +8,7 @@ title: Вступ
   : [[HML](https://ykochura.github.io/ml-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/details.pdf)] 
 
 : **Лекція 1**{: .label .label-green } **Вступ до машинного навчання**
-  : [[HML](https://yk15 січochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)] 
+  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)] 
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1)] <br> [[Numpy Handbook](https://ykochura.github.io/ml-kpi/tutor/Numpy Handbook.pdf)]
