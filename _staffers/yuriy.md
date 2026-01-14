@@ -4,7 +4,7 @@ role: Instructor
 email: iuriy.kochura@gmail.com
 website: https://ykochura.github.io/
 photo: ykochura.jpg
-pronouns: лекції/практики
+pronouns: лекції
 department: обчислювальної техніки
 lectures: онлайн
 site: http://roz.kpi.ua/
