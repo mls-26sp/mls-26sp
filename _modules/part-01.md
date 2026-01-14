@@ -5,10 +5,10 @@ title: Вступ
 
 15 січ 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/ml-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/details.pdf)] 
+  : [[HML](https://ykochura.github.io/mls-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/mls-kpi/pdf/details.pdf)] 
 
 : **Лекція 1**{: .label .label-green } **Вступ до машинного навчання**
-  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)] 
+  : [[HML](https://ykochura.github.io/mls-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/mls-kpi/pdf/lecture1.pdf)] 
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Словник термінів](https://storage.thedigital.gov.ua/files/2/72/389a01ab0cc82040dfe172f94d1af720.pdf)] <br> [[Numpy Handbook](https://ykochura.github.io/ml-kpi/tutor/Numpy Handbook.pdf)]
@@ -16,7 +16,7 @@ title: Вступ
 
 15 січ
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**  
-  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] 
+  : [[HML](https://ykochura.github.io/mls-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/mls-kpi/pdf/lecture2.pdf)] 
 
 <!-- : **ПР #1**{: .label .label-purple} **Лiнiйна регресiя** 
   : [[Деталі](https://drive.google.com/file/d/17rqnKTbh6SOar-CVdyBYL4Xy6RsLuNwR/view?usp=sharing)] 
