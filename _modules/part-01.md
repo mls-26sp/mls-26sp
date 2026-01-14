@@ -11,7 +11,7 @@ title: Вступ
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)] 
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : [[MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1)] <br> [[Numpy Handbook](https://ykochura.github.io/ml-kpi/tutor/Numpy Handbook.pdf)]
+  : [[Словник термінів](https://storage.thedigital.gov.ua/files/2/72/389a01ab0cc82040dfe172f94d1af720.pdf)] <br> [[Numpy Handbook](https://ykochura.github.io/ml-kpi/tutor/Numpy Handbook.pdf)]
 
 
 15 січ
