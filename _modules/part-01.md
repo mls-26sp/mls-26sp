@@ -25,7 +25,7 @@ title: Вступ
     : **Дедлайн**:  30 травня
 
 
-: **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
+: **ПР #2**{: .label .label-purple} **k-найближчі сусіди**
   : [[Деталі](https://ykochura.github.io/mls-kpi/labs/lab2-mls.pdf)]
     : **Дедлайн**: 30 травня 
 
