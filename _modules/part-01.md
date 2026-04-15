@@ -18,6 +18,20 @@ title: Вступ
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**  
   : [[HML](https://ykochura.github.io/mls-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/mls-kpi/pdf/lecture2.pdf)] [[ВІДЕО](https://youtu.be/_LDRSPLwOb8)]
 
+
+15 кві
+: **ПР #1**{: .label .label-purple} **Лiнiйна регресiя**
+  : [[Деталі](https://ykochura.github.io/mls-kpi/labs/lab1-mls.pdf)]
+    : **Дедлайн**:  30 травня
+
+
+: **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
+  : [[Деталі](https://ykochura.github.io/mls-kpi/labs/lab2-mls.pdf)]
+    : **Дедлайн**: 30 травня 
+
+
+
+
 <!-- : **ПР #1**{: .label .label-purple} **Лiнiйна регресiя** 
   : [[Деталі](https://drive.google.com/file/d/17rqnKTbh6SOar-CVdyBYL4Xy6RsLuNwR/view?usp=sharing)] 
     : **Дедлайн**:  02 березня
